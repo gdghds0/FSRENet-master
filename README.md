@@ -28,7 +28,7 @@ sh train_FSRENet_3d.sh
 ```
 4. Test the model;
 ```
-cd SS-Net/code
+cd FSRENet-master/code
 
 python test_2D_ACDC.py
 python test_3D_LA.py 
